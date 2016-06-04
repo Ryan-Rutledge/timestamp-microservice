@@ -2,7 +2,7 @@
   "name": "timestamp-microservice",
   "version": "0.0.0",
   "description": "A timestamp microservice.",
-  "main": "app.js",
+  "start": "app.js",
   "repository": "",
   "author": "Ryan Rutledge <ryan.rutledge.dev@gmail.com>",
   "dependencies": {
